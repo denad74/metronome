@@ -1,0 +1,46 @@
+.App {
+  box-sizing: border-box;
+  width: 60%;
+  text-align: center;
+  background-color: #ccc;
+  border: 1px solid #999;
+  border-radius: 20px;
+  height: 300px;
+  margin: 30px auto;
+}
+
+.header h1 {
+  font-size: 3rem;
+  letter-spacing: 0.3rem;
+}
+
+.form {
+  width: 100%;
+}
+
+.form-label {
+  margin: 20px;
+  font-size: 1.5rem;
+  color: #666;
+}
+
+.form-input input {
+  margin-top: 10px 20px;
+  width: 80%;
+  display: inline-block;
+}
+
+.btn {
+  width: 100%;
+  margin-top: 20px;
+}
+.btn button {
+  display: inline-block;
+  width: 80%;
+  background: #2c47e0;
+  padding: 10px;
+  border: 3px solid #6ca1d6;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 18px;
+}
